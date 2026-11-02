@@ -1,0 +1,20 @@
+# Database (local data)
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Reports / generated PDFs
+reports/
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
