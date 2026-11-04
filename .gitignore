@@ -18,3 +18,8 @@ reports/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Frontend (Node)
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
